@@ -1,1 +1,4 @@
 hola
+human lv 5
+developer lv 2
+git lv 1
